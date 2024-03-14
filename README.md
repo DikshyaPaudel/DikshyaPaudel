@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dikshya Paudel</h1>
-<h3 align="center">Passionate learner</h3>
 
 - 🌱 I’m currently learning **Django**
 
