@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dikshya Paudel</h1>
+<h1 align="center">Hi, I'm Dikshya Paudel</h1>
 
 - 🌱 I’m currently learning **React and Django**
 
@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dikshya paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshya paudel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dikshya-paudel-01070a212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshya paudel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
