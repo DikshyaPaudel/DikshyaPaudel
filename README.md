@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dikshya Paudel</h1>
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **dikshyapaudel9@gmail.com**
 
