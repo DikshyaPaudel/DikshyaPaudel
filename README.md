@@ -1,17 +1,62 @@
-<h1 align="center">Hi, I'm Dikshya Paudel</h1>
+<h1 align="center">Hi, I'm Dikshya Paudel 👋</h1>
+<h3 align="center">Python Backend Developer · ERPNext/Frappe Specialist</h3>
 
-<!-- - 🌱 I’m currently learning **Django** -->
-
-- 📫 How to reach me **dikshyapaudel9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dikshya-paudel-01070a212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshya paudel" height="30" width="40" /></a>
+<p align="center">
+I build backend systems, REST APIs, and automation pipelines that replace manual work with reliable software — across ERP, fintech, and applied-AI projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+📫 <a href="mailto:dikshyapaudel9@gmail.com">dikshyapaudel9@gmail.com</a> &nbsp;|&nbsp;
+🌐 <a href="https://dikshyapaudel.github.io/Portfolio/" target="_blank">Portfolio</a> &nbsp;|&nbsp;
+💼 <a href="https://www.linkedin.com/in/dikshya-paudel-01070a212/" target="_blank">LinkedIn</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshyapaudel&show_icons=true&locale=en&layout=compact" alt="dikshyapaudel" /></p>
+---
 
+### 🔧 Currently working with
+Python · FastAPI · Django · Frappe Framework · ERPNext · REST APIs · MariaDB · PostgreSQL · Redis · Docker
 
+### 🌱 Currently exploring
+LLM/Vision API integration (Gemini), human-in-the-loop AI architectures, async task queues
+
+---
+
+### 🚀 Featured Projects
+
+**[SnapLedger — AI-Powered Receipt Intelligence API](https://github.com/DikshyaPaudel/SnapLedger)**
+FastAPI service using Gemini Vision to extract structured data from receipt images, with async Redis/arq processing and a human-in-the-loop review layer to catch AI errors before they hit financial records.
+
+**[ERPNext Copilot — LLM Agent](https://github.com/DikshyaPaudel/erpnext-copilot)**
+Natural-language agent that translates requests into structured ERPNext API calls, with dynamic dashboard/report generation and a confirmation-gated architecture for write operations.
+
+**[Letter of Credit Module (Frappe/ERPNext)](https://github.com/DikshyaPaudel/Letter-of-Credit)**
+Open-source module managing full LC lifecycle — issuance, usage, bank-limit enforcement, and automated validations for construction-industry finance workflows.
+
+**[Budget Buddy — Django Expense Tracker](https://github.com/DikshyaPaudel/BudgetBuddy)**
+Full-stack expense tracker with Django + PostgreSQL, Google OAuth, and Chart.js reporting dashboards.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mariadb/mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DikshyaPaudel&show_icons=true&locale=en&theme=default" alt="dikshyapaudel stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DikshyaPaudel&show_icons=true&locale=en&layout=compact" alt="dikshyapaudel top langs" />
+</p>
